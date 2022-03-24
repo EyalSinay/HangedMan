@@ -1,3 +1,3 @@
-# Eyal 
+# Eyal's Hanged Man task
 
-Sinay.
+Hello, my name is Eyal Sinay and this is my HangedMan project.
